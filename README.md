@@ -5,16 +5,6 @@
 
 <p><img src = "https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"> <img src = "https://img.shields.io/badge/Ethereum-1E94EE?style=for-the-badge&logo=ethereum&logoColor=white"></P>
 
-	
-	
-
-	
-	
-	
-
-- 🔭 I’m currently working on [Manafia-Factions](https://github.com/Manafia-Development/Manafia-Factions)
-
-- 🔭 I’m currently working on [Organized-Crime-Militia](https://github.com/71Zombie/Organized-Crime-Militia)
 
 
 <h3 align="left">Languages and Tools:</h3>
