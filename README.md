@@ -1,7 +1,6 @@
 <h1 align="center">71Zombie</h1>
 <h3 align="center">The one and only.</h3>
 
-## [Support for all of my projects can be found here!](https://discord.gg/qZfWdqruth)
 
 <p><img src ="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> <img src = "https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"> <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> </p>
 
